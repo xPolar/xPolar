@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/xPolar/xPolar/master/header.svg" alt="Hello Header">
+<img src="https://raw.githubusercontent.com/xPolar/xPolar/master/header.svg" alt="Monkey face" style="width: 100%; height: auto;">
 
 - 🔭 I’m currently working on **Astro**
 - 🌱 I’m currently trying to learn **C#**
