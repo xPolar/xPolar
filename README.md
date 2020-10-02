@@ -7,4 +7,4 @@
 - 📫 Reach me on [**Discord**](https://discord.com/users/619284841187246090)
 - 🔗 [**My website**](https://polar.blue) and [**my portfolio**](https://portfolio.polar.blue)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=xPolar&show_icons=true&count_private=True)
+<!--- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=xPolar&show_icons=true&count_private=True)
