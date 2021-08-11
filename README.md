@@ -2,7 +2,7 @@
 
 My name is Polar and I'm a 16 year old software developer.
 
-- 🔭 I’m currently working on*
+- 🔭 I’m currently working on
   * [RTP](https://github.com/xPolar/RTP), a Spigot Minecraft plugin to randomly teleport users around the map.
    
 - 📫 How to reach me:
