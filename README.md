@@ -1,9 +1,24 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/xPolar/xPolar/master/header.svg" alt="Monkey face" style="width: 100%; height: auto;">
-</p>
+### Hi there 👋
 
-- ☕ Hi I'm **Polar**, a 16-year-old with a passion for software development, sorry there isn't much to see on my GitHub as most of my work is private.
-- 🔭 I’m currently working on **Ticketer**, and trying to learn **Java** while juggling school and maintaining all of my projects.
-- 📫 Reach me on [**Discord**](https://discord.gg/pSWvn22Hyw) for any inquires, and feel free to visit my [**website**](https://polar.blue) and [**portfolio**](https://portfolio.polar.blue)!
+My name is Polar and I'm a 16 year old software developer.
 
-<!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=xPolar&show_icons=true&count_private=True)
+- 🔭 I’m currently working on*
+  * [RTP](https://github.com/xPolar/RTP), a Spigot Minecraft plugin to randomly teleport users around the map.
+   
+- 📫 How to reach me:
+
+  Twitter: [@xPolarrr](https://twitter.com/xPolarrr)
+  
+  Discord: [Polar#6880](https://discord.com/users/619284841187246090)
+ 
+  Website: [polar.blue](https://polar.blue)
+  
+- Discord Server:
+  
+  [![widget](https://inv.wtf/widget/polar)](https://inv.wtf/polar)
+  
+- GitHub Stats
+
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=xPolar&theme=blueberry&count_private=true&hide_border=true&line_height=25)
+
+<!-- This README was heavily inspired by https://github.com/GamingGeek, go check him out, he does amazing things! -->
