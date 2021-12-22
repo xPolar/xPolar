@@ -4,6 +4,7 @@ My name is Polar and I'm a 17 year old software developer.
 
 - 🔭 I’m currently working on
   * [CruiseShip](https://github.com/OtterDevelopment/CruiseShip), an advanced Discord moderation bot.
+  * [Positive Peter](https://github.com/OtterDevelopment/PositivePeter), Discord bot meant to uplift Discord users and provide resources to professionals when needed.
    
 - 📫 How to reach me:
 
