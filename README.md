@@ -14,16 +14,20 @@ My name is Polar and I'm a 17 year old software developer.
  
   Website: [polar.blue](https://polar.blue)
   
-  <p align="center">
-   <img src="https://inv.wtf/widget/polar">
-  </p>
+<p align="center">
+ <img src="https://inv.wtf/widget/polar">
+</p>
   
-  <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=xPolar&theme=blueberry&count_private=true&hide_border=true&line_height=25">
-  </p>
-  
- <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/619284841187246090">
- </p>
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=xPolar&theme=blueberry&count_private=true&hide_border=true&line_height=25">
+</p>
+
+<p align="center">
+ <img src="https://lanyard.cnrad.dev/api/619284841187246090">
+</p>
+ 
+<p align="center">
+ <a href="https://ko-fi.com/K3K1C6F78"><img src="https://ko-fi.com/img/githubbutton_sm.svg"></a>
+</p>
 
 <!-- This README was heavily inspired by https://github.com/GamingGeek, go check him out, he does amazing things! -->
