@@ -15,7 +15,7 @@ My name is Polar and I'm a 17 year old software developer.
   Website: [polar.blue](https://polar.blue)
   
 <p align="center">
- <img src="https://inv.wtf/widget/polar">
+ <a href="https://inv.wtf/polar" target="_blank"><img src="https://inv.wtf/widget/polar"></a>
 </p>
   
 <p align="center">
