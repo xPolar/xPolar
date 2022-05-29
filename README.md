@@ -17,10 +17,6 @@ My name is Polar and I'm a 17 year old software developer.
 <p align="center">
  <a href="https://inv.wtf/polar" target="_blank"><img src="https://inv.wtf/widget/polar"></a>
 </p>
-  
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=xPolar&theme=blueberry&count_private=true&hide_border=true&line_height=25">
-</p>
 
 <p align="center">
  <img src="https://lanyard.cnrad.dev/api/619284841187246090">
