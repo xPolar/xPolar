@@ -3,7 +3,7 @@
 My name is Polar and I'm a 16 year old software developer.
 
 - 🔭 I’m currently working on
-  * [Spacedrive](https://github.com/spacedriveapp/spacedrive), an advanced Discord moderation bot.
+  * [Spacedrive](https://github.com/spacedriveapp/spacedrive), a file explorer from the future. 
    
 - 📫 How to reach me:
 
