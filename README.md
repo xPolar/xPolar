@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Polar and I'm a 16 year old software developer.
+My name is Polar and I'm a 17 year old software developer.
 
 - 🔭 I’m currently working on
   * [Spacedrive](https://github.com/spacedriveapp/spacedrive), a file explorer from the future. 
